@@ -8,4 +8,6 @@ During this experiment, we acquired knowledge about
 * ListView
 * CardLayout
 
+## Screenshots
 
+![plot](./assets/screenshots/screenshot_1.png?raw=true)
